@@ -3,6 +3,6 @@
     display: flex;
   }
 
-  .logout {
-      margin-left: auto;
+  .container > div {
+    flex: 1;
   }
