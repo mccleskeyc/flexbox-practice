@@ -2,28 +2,28 @@
     padding: 10px;
     text-align: center;
     font-size: 2em;
-    color: #ffeead;
+    color:palevioletred;
   }
   
   html, body {
-    background-color: #ffeead;
+    background-color:rosybrown;
     margin: 10px;
   }
   
   .container > div:nth-child(1n) {
-    background-color: #96ceb4;	
+    background-color: plum;	
   }
   
   .container > div:nth-child(3n) {
-    background-color: #88d8b0;
+    background-color: purple;
   }
   
   .container > div:nth-child(2n) {
-    background-color: #ff6f69;
+    background-color:rebeccapurple;
   }
   
   .container > div:nth-child(4n) {
-    background-color: #ffcc5c;
+    background-color: plum;
   }
   
   
