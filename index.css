@@ -14,4 +14,9 @@
   .container > li {
     flex: 1 1 50%;
   }
+
+  .search > input {
+    text-align: center;
+  }
 }
+
