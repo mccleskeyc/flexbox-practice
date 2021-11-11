@@ -1,29 +1,8 @@
-
-
-
 .container {
-    border: 5px solid palevioletred;
-    display: flex;
-  }
+  border: 5px solid #ffcc5c;
+  display: flex;
+}
 
-  .item1 {
-    order: 1;
-  }
-  
-  .item2 {
-    order: 0;
-  }
-  
-  .item3 {
-    order: -1;
-  }
-
-  h1 {
-    text-align: center;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  }
-
-  .description {
-    text-align: justify;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  }
+.search {
+  flex: 1;
+}
